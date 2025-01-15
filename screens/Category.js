@@ -257,7 +257,7 @@ function CategoryProduct() {
                     fontWeight: "900",
                     color: "#0acf83",
                     fontSize: 18,
-                    padding: 6,
+                    padding: 5,
                   }}
                 >
                   Shop now &rarr;
